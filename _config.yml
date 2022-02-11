@@ -1,0 +1,12 @@
+title: Jonas Saggse Banhos
+tagline: 'My personal website'
+plugins:
+  -jekyll-relative-links
+relative_links:
+  enable: true
+  collections: true
+include:
+  - README.MD
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
