@@ -29,11 +29,11 @@ A model of a pipeline, involving the transport of oil and permafrost. The proble
 
 Another Adv. Heat Transfer problem in 2014. The goal was to investigate the effects of thermal insulation damage on a steel beam under fire. It uses Finite Volume Method (FVM) on a uniform grid to obtain the transient solution. Overall it is a simple implementation where every cell has its own numerical scheme (boundary, corner, solid, etc). Again I took the opportunity to practice Java. The user can define material zones via vertices and assign specific ids to those. Object oriented programing was needed where the domain is made up of "rectangles" containing properties. The program displays node id and color-coded areas. There s no file user inputs where they are specified directly in the Java code. Note that a .csv file is created containing thermal results. They can be plotted in Excel. Ideally, values could have been plotted directly in the JFrame. Again, future implementation needed here. For now, good practice.
 
-<p align="center">
+<p align="center"><img src="../pics/thermo1.png"/></p>
  
 ![process](../pics/thermo1.png)
  
-</p>
+
 
  
 ![process](../pics/thermo2.png)
