@@ -1,5 +1,3 @@
-# JonasBanhos.github.io 
-
 Welcome to my personal website!
 My goal in creating this website is to store some of my school notes, thoughts, programs, career advise, research and more.
 
