@@ -1,5 +1,4 @@
 title: JonasBanhos.github.io
-[comment]: <> (tagline: 'Personsal Website')
 plugins: 
   - jekyll-relative-links
 relative_links:
