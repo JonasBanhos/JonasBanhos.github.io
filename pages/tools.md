@@ -10,7 +10,7 @@
 
 ## <a name="section1"><a/>Finite Element Method - Fin Equation - JAVA Application
 <div style="text-align: justify">
-FEM implementation for the fin equation. From the Applied Finite Element Methods class at WPI in 2015. The project included the full derivation of the FEM formulation and software design document with pseudo code. The stand-alone software can read a user input file, display the information on output window, perform iterations and display results. User is able to save results to file. JFreeChart library was used to provide plotting capabilities. 
+FEM implementation for the fin equation. From the Applied Finite Element Methods class in 2015. The project included the full derivation of the FEM formulation and software design document with pseudo code. The stand-alone software can read a user input file, display the information on output window, perform iterations and display results. User is able to save results to file. JFreeChart library was used to provide plotting capabilities. 
 </div><br/>
  
 ![process](../pics/FEM.png)
@@ -20,7 +20,7 @@ FEM implementation for the fin equation. From the Applied Finite Element Methods
 ## <a name="section2"><a/>Pipeline - JAVA Application
 
 <div style="text-align: justify">
-A model of a pipeline, involving the transport of oil and permafrost. The problem was proposed in my applied Adv. Heat Transfer Class in 2014.  The goal was to provide a stand-alone tool that can display flow input and output parameters, as well as varying pipe and insulation diameters. It used integration and closed formulas to attain solution.
+A model of a pipeline, involving the transport of oil through permafrost. The problem was proposed in my applied Adv. Heat Transfer Class in 2014.  The goal was to provide a stand-alone tool that can display flow input and output parameters, as well as varying pipe and insulation diameters. It used integration and closed formulas to attain solution.
 </div><br/>
  
 ![process](../pics/pipeline.png)
