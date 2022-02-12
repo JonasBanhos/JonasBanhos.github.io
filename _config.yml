@@ -1,1 +1,10 @@
-
+title: Jonas Saggese Banhos Personal Website
+tagline: 'Personsal Website'
+plugins: 
+  - jekyll-relative-links
+relative_links:
+  enable: true
+  collections: true
+include:
+  - README.md
+theme: jekyll-theme-cayman
