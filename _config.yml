@@ -1,5 +1,5 @@
 title: Jonas Saggese Banhos Personal Website
-tagline: 'Personsal Website'
+[comment]: <> (tagline: 'Personsal Website')
 plugins: 
   - jekyll-relative-links
 relative_links:
