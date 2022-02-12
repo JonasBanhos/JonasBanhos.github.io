@@ -31,11 +31,6 @@ Another Adv. Heat Transfer problem in 2014. The goal was to investigate the effe
 
 <p align="center"><img src="../pics/thermo1.png"/></p>
  
-![process](../pics/thermo1.png)
- 
-
-
- 
 ![process](../pics/thermo2.png)
 
 ---
@@ -49,4 +44,5 @@ A more complex Java program and hence a true "work-in-progress" project.  I had 
  
 ![process](../pics/comp3.png)
  
-![process](../pics/comp4.png)
+ <p align="center"><img src="../pics/comp4.png"/></p>
+
