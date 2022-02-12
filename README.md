@@ -19,11 +19,12 @@ I have joined UConn's CFD Group in 2021 as a PhD student. I am working with high
 [UConn CFD Group](https://cfd.engr.uconn.edu/)
 
 
-# Patents
+## Patents
 
 [Google Patents](https://patents.google.com/?inventor=Jonas+S.+Banhos)
 
 ## (This page is under construction!)
+
 ![Alt text][id]
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
