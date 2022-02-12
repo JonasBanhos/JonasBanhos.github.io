@@ -1,8 +1,6 @@
 #### [←home](../README.md)
 
- Through my academic carrerr I have decided to build a few simple programs either in school/home to help me understand a little better the physics and programming itself. 
- 
- 
+ Through my academic carreer I have built a few simple programs either in school/home to help me understand a little better the physics and the programming language itself. 
  
 + [Finite Element Method - Fin Equation - JAVA Application](#Section1)
 + [Pipeline - JAVA Application](#Section2)
@@ -11,8 +9,9 @@
 
 
 ## <a name="section1"><a/>Finite Element Method - Fin Equation - JAVA Application
+<div style="text-align: justify">
 FEM implementation for the fin equation. From the Applied Finite Element Methods class at WPI in 2015. The project included the full derivation of the FEM formulation and software design document with pseudo code. The stand-alone software can read a user input file, display the information on output window, perform iterations and display results. User is able to save results to file. JFreeChart library was used to provide plotting capabilities. 
-
+</div>
 ![process](../pics/FEM.png)
  
 ---
