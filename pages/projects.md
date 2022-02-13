@@ -33,6 +33,8 @@ Grid=64^2, Ra=10^6 ,Pr=1,Tend=0.005
  
 <p align="left"><img src="../pics/OneTenthSec5.gif" width="600"/></p>
  
+---
+ 
 ## <a name="section2"><a/>Ramjet Engine Sizing - Analytical
 <div style="text-align: justify">
 In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the flow and produce thrust through added heat in the combustion chamber and further expansion through the nozzle.
@@ -79,7 +81,9 @@ For this type of device, the engine needs to be started via another vehicle trav
 |8|3.50|2000.0|2003.8|153603.9|6926.8|
  
 <p align="left"><img src="../pics/ramjet.png" width="800"/></p>
-
+ 
+---
+ 
 ## <a name="section3"><a/>Project2
 <div style="text-align: justify">
 
