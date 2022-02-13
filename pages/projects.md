@@ -6,7 +6,9 @@ Some of my interesting academic projects related to thermo-fluids.
 + [Ramjet Engine Sizing - Analytical](#Section2)
 + [Project3](#Section3)
 + [Project4](#Section4)
-
+ 
+---
+ 
 ## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - Matlab
 <div style="text-align: justify">
 CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. 
