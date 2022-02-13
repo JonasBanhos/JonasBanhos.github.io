@@ -13,7 +13,7 @@ I am an engineer with 9 years of experience working for a major aerospace compan
 
 ## PhD
 
-I have joined UConn's CFD Group in 2021 as a PhD student. I am working with higher order models such as Large Eddy Simulation (LES) applied to atmospheric problems. Plenty of HPC, MPI and a lot of interesting programming, including Fortran!
+I have joined UConn's CFD Group in Jan/2021 as a PhD student. I am working with higher order models such as Large Eddy Simulation (LES) applied to atmospheric problems. Plenty of HPC, MPI and a lot of interesting programming, including Fortran!
 
 [UConn CFD Group](https://cfd.engr.uconn.edu/)
 
