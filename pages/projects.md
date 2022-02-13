@@ -35,13 +35,10 @@ Grid=64^2, Ra=10^6 ,Pr=1,Tend=0.005
  
 ## <a name="section2"><a/>Ramjet Engine Sizing - Analytical
 <div style="text-align: justify">
-In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as
-to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the
-flow and produce thrust through added heat in the combustion chamber and further expansion through the
-nozzle.
-For this type of device, the engine needs to be started via another vehicle travelling at supersonic
-speeds or by means of high pressure chambers in a testing setting.
-
+In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the flow and produce thrust through added heat in the combustion chamber and further expansion through the nozzle.
+For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high pressure chambers in a testing setting.
+</div><br/>
+ 
 Therefore the project will focus on the design of a Ramjet engine travelling at Mach 4, 2000 lbf of pressure and temperature of 519 R. The
 design furthermore requires that the Mach number at the combustion chamber to be no greater than 0.25
 and that the engine be powered by JP10 fuel with a heating value of 18,900 BTU/lbm and stoichiometric
@@ -54,14 +51,17 @@ The project will focus on the design for the given Mach conditions and as well a
 Mach 2 and Mach 3 given identical ambient conditions.
 
 The project relies on the underlying compressible flow equations including
-isentropic flow,
-normal shock theory,
-expansion theory,
-oblique shock theory,
-quasi 1-D flow
-and method of characteristics to determine flow patterns for a given
-Rayleigh Flow equations (Heat Addition)
-engine component.
+ 
+| Techniques | Comments |
+| ------ | ----------- |
+| isentropic flow    |  Non-dimensional Form   |
+| normal shock theory   | Satisfied via Poisson equation |
+| expansion theory | Fourier Transform solution |
+| oblique shock theory,|
+| quasi 1-D flow |
+|  method of characteristics     |  Fractional Step Method via Runge–Kutta  |
+| Rayleigh Flow equations    |  Heat addition  |
+
 
 The design will follow parametric design techniques in order to estimate the most
 suitable configuration given the design requirements to determine the overall engine configuration for the
@@ -71,7 +71,7 @@ oblique shock diffuser, combustor and nozzle.
 methods used, equations and geometrical considerations of the system.
 
   
-</div><br/>
+
   
 ## <a name="section3"><a/>Project2
 <div style="text-align: justify">
