@@ -12,7 +12,7 @@ Some of my interesting academic projects related to thermo-fluids.
 CFD project solving the Rayleigh–Bénard Convection problem by full implementation through Matlab. Equations were discretized 
 </div><br/>
  
-![process](../pics/FEM.png)
+![process](../pics/OneTenthSec5.gif)
  
 ## <a name="section2"><a/>Project2
 <div style="text-align: justify">
@@ -33,4 +33,4 @@ CFD project solving the Rayleigh–Bénard Convection problem by full implementa
   
 </div><br/>
  
- <p align="center"><img src="../pics/comp4.png"/></p>
+ <p align="center"><img src="../pics/compTEST.png"/></p>
