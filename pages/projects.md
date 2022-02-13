@@ -52,13 +52,13 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 | Techniques | Comments |
 | ------ | ----------- |
-| isentropic flow    |  Non-dimensional Form   |
-| normal shock theory   | Satisfied via Poisson equation |
-| expansion theory | Fourier Transform solution |
-| oblique shock theory,|
-| quasi 1-D flow |
-|  method of characteristics     |  Fractional Step Method via Runge–Kutta  |
-| Rayleigh Flow equations    |  Heat addition  |
+| Quasi 1-D Flow |Cross-section area varies in one direction, thermodinamic variables f(x)|
+| Isentropic Flow    |  Facilitates use of Isentropic flow tables  |
+| Normal Shock Theory   | Normal shock at diffuser throat  |
+| Expansion Theory | Fourier Transform solution |
+| Oblique Shock Theory| Diffuser optimization, oblique shock waves |
+| Method of Characteristics  |  To determine nozzle shape  |
+| Rayleigh Flow equations    |  Heat addition in combustor |
   
 ## <a name="section3"><a/>Project2
 <div style="text-align: justify">
