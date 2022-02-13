@@ -29,7 +29,7 @@ CFD project solving the Rayleigh–Bénard Convection problem by full implementa
  
 ### Solution 
  
-Grid=64^2, Ra=10^6 ,Pr=1
+Grid=64^2, Ra=10^6 ,Pr=1,Tend=0.005
  
 <p align="left"><img src="../pics/OneTenthSec5.gif" width="600"/></p>
  
