@@ -3,7 +3,7 @@
 Some of my interesting academic projects related to thermo-fluids. 
  
 + [Rayleigh–Bénard Convection - 2D - Matlab](#Section1)
-+ [Project2](#Section2)
++ [Ramjet Engine Sizing - Analytical](#Section2)
 + [Project3](#Section3)
 + [Project4](#Section4)
 
