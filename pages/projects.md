@@ -41,7 +41,7 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 ### Engine Parameters 
  
-* Ramjet engine at Mach 4, 2000 lbf of pressure and temperature of 519 R
+* Ramjet engine at Mach 4, 2000 lbf/ft^2 of pressure and temperature of 519 R
 * Mach number at the combustion chamber no greater than 0.25
 * Engine be powered by JP10 fuel with a heating value of 18,900 BTU/lbm 
 * Stoichiometric air-fuel ratio of 0.0704
@@ -59,6 +59,18 @@ For this type of device, the engine needs to be started via another vehicle trav
 | Method of Characteristics  |  To determine nozzle shape  |
 | Rayleigh Flow equations    |  Heat addition in combustor |
   
+### Results
+
+|FLOW # | MACH | P | T | P0 | T0 |
+|1|4.0|2000.0|513.2|303670.4|2155.3|
+|2|2.60|10368.9|926.7|204027.7|2171.1|
+|3|1.72|34144.5|1366.2|173890.5|2175.3|
+|4|0.63|132521.3|2012.8|173890.5|2175.3|
+|5|0.25|166491.7|2148.4|173890.5|2175.3|
+|6|0.60|120520.0|6463.0|153604.5|6926.8|
+|7|1.00|81146.1|5772.3|153603.9|6926.8|
+|8|3.50|2000.0|2003.8|153603.9|6926.8|
+ 
 ## <a name="section3"><a/>Project2
 <div style="text-align: justify">
 
