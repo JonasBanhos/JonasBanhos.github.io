@@ -37,7 +37,7 @@ Grid=64^2, Ra=10^6 ,Pr=1,Tend=0.005
 <div style="text-align: justify">
 In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the flow and produce thrust through added heat in the combustion chamber and further expansion through the nozzle.
 For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high pressure chambers in a testing setting.
-</div><br/>
+</div>
  
 ### Engine Parameters 
  
