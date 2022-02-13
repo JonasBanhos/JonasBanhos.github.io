@@ -61,11 +61,11 @@ For this type of device, the engine needs to be started via another vehicle trav
 
 ### Method of Characteristics Example
 
- <p align="left"><img src="../pics/nozzle-characMeth.png" width="600"/></p>
+ <p align="left"><img src="../pics/nozzle-characMeth.png" width="800"/></p>
 
 ### Results
 
- <p align="left"><img src="../pics/stations.png" width="600"/></p>
+ <p align="left"><img src="../pics/stations.png" width="800"/></p>
 
 |FLOW # | MACH | P | T | P0 | T0 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -78,7 +78,7 @@ For this type of device, the engine needs to be started via another vehicle trav
 |7|1.00|81146.1|5772.3|153603.9|6926.8|
 |8|3.50|2000.0|2003.8|153603.9|6926.8|
  
-<p align="left"><img src="../pics/ramjet.png" width="600"/></p>
+<p align="left"><img src="../pics/ramjet.png" width="800"/></p>
 
 ## <a name="section3"><a/>Project2
 <div style="text-align: justify">
