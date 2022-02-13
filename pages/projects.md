@@ -16,12 +16,12 @@ CFD project solving the Rayleigh–Bénard Convection problem by full implementa
  
 | Steps | Comments |
 | ------ | ----------- |
-| Imcompressibility   | This is satisfied via Poisson equation |
+| Imcompressibility   | Satisfied via Poisson equation |
 | Poisson equation  | Fourier Transform solution |
 | BCs | Periodic |
 | Grid  | Staggered |
 | Time Integration    |  Fractional Step Method via Runge–Kutta  |
-| Stability    |  Use max of Convection-Diffusion stability Limit  (CFL)  |
+| Stability    |  Use max of Convection-Diffusion stability Limit (CFL)  |
  
  <p align="left"><img src="../pics/cfddomain.png" width="600"/></p>
  <p align="left"><img src="../pics/OneTenthSec5.gif" width="600"/></p>
