@@ -41,12 +41,12 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 ### Engine Parameters 
  
-*Ramjet engine at Mach 4, 2000 lbf of pressure and temperature of 519 R
-*Mach number at the combustion chamber no greater than 0.25
-*Engine be powered by JP10 fuel with a heating value of 18,900 BTU/lbm 
-*Stoichiometric air-fuel ratio of 0.0704
-*Engine Envelope: Total Length < 215”, width < 20”, throat-to-throat distance = 72” 
-*Off-design analysis: Mach 2 and Mach 3
+* Ramjet engine at Mach 4, 2000 lbf of pressure and temperature of 519 R
+* Mach number at the combustion chamber no greater than 0.25
+* Engine be powered by JP10 fuel with a heating value of 18,900 BTU/lbm 
+* Stoichiometric air-fuel ratio of 0.0704
+* Engine Envelope: Total Length < 215”, width < 20”, throat-to-throat distance = 72” 
+* Off-design analysis: Mach 2 and Mach 3
 
 ### Compressible Flow Analytical Approach
  
