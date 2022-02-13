@@ -14,7 +14,7 @@ CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementa
 
 ### Implementation Highlights
  
-| Steps | Comments |
+| Topic | Comments |
 | ------ | ----------- |
 | Governing PDEs    |  Non-dimensional Form   |
 | Imcompressibility   | Satisfied via Poisson equation |
@@ -50,9 +50,9 @@ For this type of device, the engine needs to be started via another vehicle trav
 
 ### Compressible Flow Analytical Approach
  
-| Techniques | Comments |
+| Topic | Comments |
 | ------ | ----------- |
-| Quasi 1-D Flow |Cross-section area varies in one direction, thermodinamic variables f(x)|
+| Quasi 1-D Flow |Cross-section area and thermodynamic variables: f(x)|
 | Isentropic Flow    |  Facilitates use of Isentropic flow tables  |
 | Normal Shock Theory   | Normal shock at diffuser throat  |
 | Oblique Shock Theory| Diffuser optimization, oblique shock waves |
