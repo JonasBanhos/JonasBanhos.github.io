@@ -23,8 +23,8 @@ CFD project solving the Rayleigh–Bénard Convection problem by full implementa
 | Time Integration    |  Fractional Step Method via Runge–Kutta  |
 | Stability    |  Use max of Convection-Diffusion stability Limit  (CFL)  |
  
- <p align="center"><img src="../pics/cfddomain.png" width="200"/></p>
- <p align="center"><img src="../pics/OneTenthSec5.gif" width="200"/></p>
+ <p align="center"><img src="../pics/cfddomain.png" width="600"/></p>
+ <p align="center"><img src="../pics/OneTenthSec5.gif" width="600"/></p>
  
 ## <a name="section2"><a/>Project2
 <div style="text-align: justify">
