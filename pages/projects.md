@@ -11,6 +11,16 @@ Some of my interesting academic projects related to thermo-fluids.
 <div style="text-align: justify">
 CFD project solving the Rayleigh–Bénard Convection problem by full implementation through Matlab. Equations were discretized 
 </div><br/>
+
+Implementation Highlights
+| Steps | Comments |
+| ------ | ----------- |
+| Imcompressibility   | This is satisfied via Poisson equation |
+| Periodic BCs | Use of Fourier Transform to solve Poisson equation |
+| Grid    | Staggered |
+| Time Integration    |  Fractional Step Method via Runge–Kutta  |
+
+
  
 ![process](../pics/OneTenthSec5.gif)
  
