@@ -26,8 +26,6 @@ CFD project solving the Rayleigh–Bénard Convection problem by full implementa
  <p align="center"><img src="../pics/cfddomain.png"/></p>
  
  <p align="center"><img src="../pics/OneTenthSec5.gif"/></p>
-
-![process](../pics/OneTenthSec5.gif)
  
 ## <a name="section2"><a/>Project2
 <div style="text-align: justify">
