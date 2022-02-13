@@ -16,6 +16,7 @@ CFD project solving the Rayleigh–Bénard Convection problem by full implementa
  
 | Steps | Comments |
 | ------ | ----------- |
+| Governing PDEs    |  Non-dimensional Form   |
 | Imcompressibility   | Satisfied via Poisson equation |
 | Poisson equation  | Fourier Transform solution |
 | BCs | Periodic |
