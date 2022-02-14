@@ -1,8 +1,8 @@
 Welcome to my personal website!
 My goal in creating this website is to store some of my school notes, thoughts, programs, career advise, research and more.
 
-+ [tools](./pages/tools.md)
-+ [projects](./pages/projects.md)
++ [tools](./pages/tools#.md)
++ [projects](./pages/projects#.md)
 + [research](./pages/research.md)
 + [notes](./pages/notes.md)
 
