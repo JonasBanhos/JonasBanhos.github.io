@@ -2,14 +2,14 @@
 
 Some of my interesting academic projects related to thermo-fluids. 
  
-+ [Rayleigh–Bénard Convection - 2D - CFD](#Section1)
-+ [Ramjet Engine Sizing - Analytical](#Section2)
-+ [Linear Variable Reluctance Motor - Desing Optimization](#Section3)
++ [1.Rayleigh–Bénard Convection - 2D - CFD](#Section1)
++ [2.Ramjet Engine Sizing - Analytical](#Section2)
++ [3.Linear Variable Reluctance Motor - Desing Optimization](#Section3)
 + [Project4](#Section4)
  
 ---
  
-## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
+## <a name="section1"><a/>1.Rayleigh–Bénard Convection - 2D - CFD
 <div style="text-align: justify">
 CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. 
 </div>
@@ -38,7 +38,7 @@ Grid=64^2, Ra=10^6 ,Pr=1,Tend=0.005
  
 ---
  
-## <a name="section2"><a/>Ramjet Engine Sizing - Analytical
+## <a name="section2"><a/>2.Ramjet Engine Sizing - Analytical
 <div style="text-align: justify">
 In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the flow and produce thrust through added heat in the combustion chamber and further expansion through the nozzle.
 For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high pressure chambers in a testing setting.
@@ -87,7 +87,7 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 ---
  
-## <a name="section3"><a/>Linear Variable Reluctance Motor - Desing Optimization  
+## <a name="section3"><a/>3.Linear Variable Reluctance Motor - Desing Optimization  
 <div style="text-align: justify">
 My senior desing project at UConn (2011/2012). It involved the analysis and validation of a Linear Variable Reluctance Motor. 
 The task scope involved: mathematical derivation of a simplified configuration, magnetic modeling with [FEMM](https://www.femm.info/wiki/HomePage) and [Faraday](https://www.integratedsoft.com/products/Faraday) optimization, testing fixtures manufacturing (CNC machining) and final report to the client. 3 students and 2 semesters.
