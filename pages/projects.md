@@ -5,7 +5,7 @@ Some of my interesting academic projects.
 + [Rayleigh–Bénard Convection - 2D - CFD](#Section1)
 + [Ramjet Engine Sizing - Analytical](#Section2)
 + [Linear Variable Reluctance Motor - Desing Optimization](#Section3)
-+ [Project4](#Section4)
++ [Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD](#Section4)
  
 ---
  
@@ -123,10 +123,9 @@ Over 100+ hours of precision manufacturing at UConn. A great hands-on experience
 
 ---
  
-## <a name="section4"><a/>Project2
+## <a name="section4"><a/>Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD
 <div style="text-align: justify">
-
-
+Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions with minimal disruption to the flow.  The study will compared two types of blunt bodies, circular and square shapes.
 </div><br/>
  
  <p align="center"><img src="../pics/compTEST.png"/></p>
