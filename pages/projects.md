@@ -115,11 +115,11 @@ Over 100+ hours of precision manufacturing at UConn. A great hands-on experience
 
 ### Testing
  
-<p align="left"><img src="../pics/LSRM4-validation.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM5.png" width="800"/></p>
  
 ### Validation
 
-<p align="left"><img src="../pics/LSRM5.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM4-validation.png" width="800"/></p>
 
 ## <a name="section4"><a/>Project2
 <div style="text-align: justify">
