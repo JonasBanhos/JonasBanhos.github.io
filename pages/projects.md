@@ -2,9 +2,9 @@
 
 Some of my interesting academic projects related to thermo-fluids. 
  
-+ [Rayleigh–Bénard Convection - 2D - Matlab](#Section1)
++ [Rayleigh–Bénard Convection - 2D - CFD](#Section1)
 + [Ramjet Engine Sizing - Analytical](#Section2)
-+ [Project3](#Section3)
++ [Linear Variable Reluctance Motor - Desing Optimization](#Section3)
 + [Project4](#Section4)
  
 ---
@@ -86,12 +86,11 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 ---
  
-## <a name="section3"><a/>Project2
+## <a name="section3"><a/>Linear Variable Reluctance Motor - Desing Optimization 
 <div style="text-align: justify">
 My senior desing project at UConn (2011/2012). It involved the analysis and validation of a Linear Variable Reluctance Motor. 
 The full task scope involved, mathematical derivation for a simplified configuration, magnetic modeling with FEMM and Faraday optimization, testing fixtures manufacturing (CNC machining) and final report to the client.
 </div><br/>
-  
   
 ## <a name="section4"><a/>Project2
 <div style="text-align: justify">
