@@ -9,7 +9,7 @@ Some of my interesting academic projects related to thermo-fluids.
  
 ---
  
-## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - Matlab
+## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
 <div style="text-align: justify">
 CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. 
 </div>
@@ -18,6 +18,7 @@ CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementa
  
 | Topic | Comments |
 | ------ | ----------- |
+| Programming    |  Matlab  |
 | Governing PDEs    |  Non-dimensional Form   |
 | Imcompressibility   | Satisfied via Poisson equation |
 | Poisson equation  | Fourier Transform solution |
