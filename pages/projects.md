@@ -11,7 +11,7 @@ Some of my interesting academic projects.
  
 ## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
 <div style="text-align: justify">
-CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. 
+CFD code the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. This is a research-quality code. Project from CFD class ME5311 at UConn.
 </div>
 
 ### Implementation Highlights
@@ -41,7 +41,7 @@ Grid=64^2, Ra=10^6 ,Pr=1,T_end=0.005s
 ## <a name="section2"><a/>Ramjet Engine Sizing - Analytical
 <div style="text-align: justify">
 In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the flow and produce thrust through added heat in the combustion chamber and further expansion through the nozzle.
-For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high pressure chambers in a testing setting.
+For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high pressure chambers in a testing setting. Great project from the Compressible Flow class ME702 at Manhattan College (2014).
 </div>
  
 ### Engine Parameters 
