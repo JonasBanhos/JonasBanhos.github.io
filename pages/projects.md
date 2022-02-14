@@ -141,4 +141,4 @@ Circular and square meshes
 
 <p align="left"><img src="../pics/cfd3.png" width="800"/></p>
  
-<p align="left"><img src="../pics/cfd34.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd4.png" width="800"/></p>
