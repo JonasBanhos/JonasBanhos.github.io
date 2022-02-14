@@ -106,7 +106,19 @@ The task scope involved: mathematical derivation of a simplified configuration, 
 [Faraday](https://www.integratedsoft.com/products/Faraday): 3D time-harmonic eddy current field solver.
  
 <p align="left"><img src="../pics/Faraday_Video3.gif" width="800"/></p>
+
+### Machining
+
+Over 100+ hours of precision manufacturing at UConn. A great hands-on experience and very useful knowledge torward design and manufacturing.
+ 
+<p align="left"><img src="../pics/LSRM8.png" width="800"/></p>
+
+### Testing
+ 
 <p align="left"><img src="../pics/LSRM4-validation.png" width="800"/></p>
+ 
+### Validation
+
 <p align="left"><img src="../pics/LSRM5.png" width="800"/></p>
 
 ## <a name="section4"><a/>Project2
