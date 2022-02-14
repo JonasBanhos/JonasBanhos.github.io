@@ -99,7 +99,7 @@ The task scope involved: mathematical derivation of a simplified configuration, 
 
 ### Simulation
 
-[FEMM](https://www.femm.info/wiki/HomePage): 2D Opensource sofwware.
+[FEMM](https://www.femm.info/wiki/HomePage): 2D Opensource sofwware (Finite Element Method Magnetics).
  
 <p align="left"><img src="../pics/LSRM3-FEMM2.png" width="800"/></p>
 
