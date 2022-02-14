@@ -2,10 +2,10 @@
 
  Through my academic carreer I have built a few simple programs either in school/home to help me understand a little better the physics and the programming language itself. 
  
-+ [Finite Element Method - Fin Equation - JAVA Application](#Section1)
-+ [Pipeline - JAVA Application](#Section2)
-+ [Steal Beam - Cross-Section - Fire/Insulation Damage - Transient Analysis - JAVA Application](#Section3)
-+ [Composite Software - JAVA Application](#Section4)
++ [Finite Element Method - Fin Equation - JAVA Application](#section1)
++ [Pipeline - JAVA Application](#section2)
++ [Steal Beam - Cross-Section - Fire/Insulation Damage - Transient Analysis - JAVA Application](#section3)
++ [Composite Software - JAVA Application](#section4)
 
 ## <a name="section1"><a/>Finite Element Method - Fin Equation - JAVA Application
 <div style="text-align: justify">
