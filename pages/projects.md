@@ -92,8 +92,19 @@ For this type of device, the engine needs to be started via another vehicle trav
 My senior desing project at UConn (2011/2012). It involved the analysis and validation of a Linear Variable Reluctance Motor. 
 The task scope involved: mathematical derivation of a simplified configuration, magnetic modeling with [FEMM](https://www.femm.info/wiki/HomePage) and [Faraday](https://www.integratedsoft.com/products/Faraday) optimization, testing fixtures manufacturing (CNC machining) and final report to the client. 3 students and 2 semesters.
 </div>
+
+### Basic Configuration
+
 <p align="left"><img src="../pics/LSRM7-diagram.png" width="800"/></p>
+
+### Simulation
+
+[FEMM](https://www.femm.info/wiki/HomePage): 2D Opensource sofwware.
+ 
 <p align="left"><img src="../pics/LSRM3-FEMM2.png" width="800"/></p>
+
+[Faraday](https://www.integratedsoft.com/products/Faraday): 3D time-harmonic eddy current field solver.
+ 
 <p align="left"><img src="../pics/Faraday_Video3.gif" width="800"/></p>
 <p align="left"><img src="../pics/LSRM4-validation.png" width="800"/></p>
 <p align="left"><img src="../pics/LSRM5.png" width="800"/></p>
