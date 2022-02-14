@@ -93,7 +93,7 @@ My senior desing project at UConn (2011/2012). It involved the analysis and vali
 The task scope involved: mathematical derivation of a simplified configuration, magnetic modeling with [FEMM](https://www.femm.info/wiki/HomePage) and [Faraday](https://www.integratedsoft.com/products/Faraday) optimization, testing fixtures manufacturing (CNC machining) and final report to the client. 3 students and 2 semesters.
 </div>
 <p align="left"><img src="../pics/LSRM7-diagram.png" width="800"/></p>
-<p align="left"><img src="../pics/LSRM3-FEMM2.png.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM3-FEMM2.png" width="800"/></p>
 <p align="left"><img src="../pics/Faraday_Video3.gif" width="800"/></p>
 <p align="left"><img src="../pics/LSRM4-validation.png" width="800"/></p>
 <p align="left"><img src="../pics/LSRM5.png" width="800"/></p>
