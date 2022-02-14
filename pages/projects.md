@@ -18,7 +18,7 @@ CFD code the Rayleigh–Bénard Convection problem by full 2D implementation thr
  
 | Topic | Comments |
 | ------ | ----------- |
-| Programming    |  Matlab  |
+| Program    |  Matlab  |
 | Governing PDEs    |  Non-dimensional Form   |
 | Imcompressibility   | Satisfied via Poisson equation |
 | Poisson equation  | Fourier Transform solution |
@@ -127,7 +127,14 @@ Over 100+ hours of precision manufacturing at UConn. A great hands-on experience
 <div style="text-align: justify">
 Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions, with minimal disruption to the flow.  The study compared two types of blunt bodies, circular and square shapes. Project from the CFD ME704 at Manhattan College (2014).
 </div><br/>
+
+ ### Implementation Highlights
  
+| Topic | Comments |
+| ------ | ----------- |
+| Program    |  Ansys Fluent  |
+| Meshing    |  Biased and structured   |
+| Flow   | Imcompressible & laminar |
 
 ### Meshing 
  
