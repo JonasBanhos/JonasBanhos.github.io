@@ -156,7 +156,7 @@ Circular and square meshes
 The study focused on the comparison between counter-rotating and co-rotating arrangements of air-jet vortex generators and the three computational turbulence k-epsilon models, Standard, RNG and Realizable via ANSYS Fluent. Project from the CFD ME704 at Manhattan College (2014).
 </div><br/>
  
- ### Implementation Highlights
+### Implementation Highlights
  
 | Topic | Comments |
 | ------ | ----------- |
