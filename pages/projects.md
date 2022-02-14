@@ -11,7 +11,7 @@ Some of my interesting academic projects.
  
 ## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
 <div style="text-align: justify">
-CFD code the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. This is a research-quality code. Project from CFD class ME5311 at UConn.
+CFD code the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. This is a research-quality code. Project from the CFD class ME5311 at UConn (2019).
 </div>
 
 ### Implementation Highlights
@@ -125,7 +125,20 @@ Over 100+ hours of precision manufacturing at UConn. A great hands-on experience
  
 ## <a name="section4"><a/>Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD
 <div style="text-align: justify">
-Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions with minimal disruption to the flow.  The study will compared two types of blunt bodies, circular and square shapes.
+Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions with minimal disruption to the flow.  The study will compared two types of blunt bodies, circular and square shapes. Project from the CFD ME704 at Manhattan College (2014).
 </div><br/>
  
- <p align="center"><img src="../pics/compTEST.png"/></p>
+
+### Meshing 
+ 
+Circular and square meshes
+ 
+<p align="left"><img src="../pics/cfd1.png" width="800"/></p>
+
+<p align="left"><img src="../pics/cfd2.png" width="800"/></p>
+
+### Results
+
+<p align="left"><img src="../pics/cfd3.png" width="800"/></p>
+ 
+<p align="left"><img src="../pics/cfd34.png" width="800"/></p>
