@@ -1,6 +1,6 @@
 #### [←home](../README.md)
 
-Some of my interesting academic projects related to thermo-fluids. 
+Some of my interesting academic projects. 
  
 + [Rayleigh–Bénard Convection - 2D - CFD](#Section1)
 + [Ramjet Engine Sizing - Analytical](#Section2)
