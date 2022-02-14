@@ -48,7 +48,7 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 * Ramjet engine at Mach 4, 2000 lbf/ft^2 of pressure and temperature of 519 R
 * Combustion chamber Mach number <= 0.25
-* Engine be powered by JP10 fuel with a heating value of 18,900 BTU/lbm 
+* Engine powered by JP10 fuel (heating value of 18,900 BTU/lbm) 
 * Stoichiometric air-fuel ratio of 0.0704
 * Engine Envelope: Total Length < 215”, width < 20”, throat-to-throat distance = 72” 
 * Off-design analysis: Mach 2 and Mach 3
@@ -90,7 +90,7 @@ For this type of device, the engine needs to be started via another vehicle trav
 ## <a name="section3"><a/>Linear Variable Reluctance Motor - Desing Optimization 
 <div style="text-align: justify">
 My senior desing project at UConn (2011/2012). It involved the analysis and validation of a Linear Variable Reluctance Motor. 
-The full task scope involved, mathematical derivation for a simplified configuration, magnetic modeling with FEMM and Faraday optimization, testing fixtures manufacturing (CNC machining) and final report to the client.
+The task scope involved: mathematical derivation of a simplified configuration, magnetic modeling with FEMM and Faraday optimization, testing fixtures manufacturing (CNC machining) and final report to the client. 
 </div><br/>
   
 ## <a name="section4"><a/>Project2
