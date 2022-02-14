@@ -125,7 +125,7 @@ Over 100+ hours of precision manufacturing at UConn. A great hands-on experience
  
 ## <a name="section4"><a/>Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD
 <div style="text-align: justify">
-Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions with minimal disruption to the flow.  The study will compared two types of blunt bodies, circular and square shapes. Project from the CFD ME704 at Manhattan College (2014).
+Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions, with minimal disruption to the flow.  The study compared two types of blunt bodies, circular and square shapes. Project from the CFD ME704 at Manhattan College (2014).
 </div><br/>
  
 
