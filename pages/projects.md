@@ -2,11 +2,12 @@
 
 Some of my interesting academic projects. 
  
-+ [Rayleigh–Bénard Convection - 2D - CFD](#Section1)
-+ [Ramjet Engine Sizing - Analytical](#Section2)
-+ [Linear Variable Reluctance Motor - Desing Optimization](#Section3)
-+ [Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD](#Section4)
- 
++ [Rayleigh–Bénard Convection - 2D - CFD](#section1)
++ [Ramjet Engine Sizing - Analytical](#section2)
++ [Linear Variable Reluctance Motor - Desing Optimization](#section3)
++ [Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD](#section4)
++ [Air-Jet Vortex Generators - 2D - CFD](#section5)
+
 ---
  
 ## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
@@ -149,3 +150,9 @@ Circular and square meshes
 <p align="left"><img src="../pics/cfd3.png" width="800"/></p>
  
 <p align="left"><img src="../pics/cfd4.png" width="800"/></p>
+ 
+## <a name="section5"><a/>Air-Jet Vortex Generators - 2D - CFD
+<div style="text-align: justify">
+The study focused on the comparison between counter-rotating and co-rotating arrangements of air-jet vortex generators and the three computational turbulence k-epsilon models, Standard, RNG and Realizable via ANSYS Fluent software.Project from the CFD ME704 at Manhattan College (2014).
+</div><br/>
+ 
