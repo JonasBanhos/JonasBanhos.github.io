@@ -10,6 +10,7 @@ My goal in creating this website is to store some of my school notes, thoughts, 
 
 I am an engineer with 9 years of experience working for a major aerospace company. 
 
+[LinkedIn](www.linkedin.com/in/jonas-engineer)
 
 ## PhD
 
