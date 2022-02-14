@@ -129,7 +129,7 @@ Over 100+ hours of precision manufacturing at UConn. A great hands-on experience
 Vortex shedding plays an important role in flow measurement since is provides a high degree of accuracy, even in slow flow conditions, with minimal disruption to the flow.  The study compared two types of blunt bodies, circular and square shapes. Project from the CFD ME704 at Manhattan College (2014).
 </div><br/>
 
- ### Implementation Highlights
+### Implementation Highlights
  
 | Topic | Comments |
 | ------ | ----------- |
@@ -156,3 +156,20 @@ Circular and square meshes
 The study focused on the comparison between counter-rotating and co-rotating arrangements of air-jet vortex generators and the three computational turbulence k-epsilon models, Standard, RNG and Realizable via ANSYS Fluent. Project from the CFD ME704 at Manhattan College (2014).
 </div><br/>
  
+ ### Implementation Highlights
+ 
+| Topic | Comments |
+| ------ | ----------- |
+| Program    |  Ansys Fluent  |
+| Meshing    |  Biased and structured   |
+| Turbulence Models   | k-epsilon, RNG and Realizable  |
+
+### Domain 
+  
+<p align="left"><img src="../pics/cfd6.png" width="800"/></p>
+
+### Results
+
+<p align="left"><img src="../pics/cfd5.png" width="800"/></p>
+ 
+<p align="left"><img src="../pics/cfd7.png" width="800"/></p>
