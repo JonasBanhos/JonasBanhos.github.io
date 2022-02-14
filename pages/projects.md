@@ -32,7 +32,7 @@ CFD code solving the Rayleigh–Bénard Convection problem by full 2D implementa
  
 ### Solution 
  
-Grid=64^2, Ra=10^6 ,Pr=1,Tend=0.005
+Grid=64^2, Ra=10^6 ,Pr=1,T_end=0.005s
  
 <p align="left"><img src="../pics/OneTenthSec5.gif" width="600"/></p>
  
