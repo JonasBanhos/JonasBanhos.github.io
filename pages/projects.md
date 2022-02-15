@@ -162,7 +162,7 @@ The study focused on the comparison between counter-rotating and co-rotating arr
  
 ## <a name="section6"><a/>Air-Jet Vortex Generators - 2D - CFD
 <div style="text-align: justify">
-Undergrad Lab study at UConn (2011) of fluid flow through an immersed body of circular shape using Particle Image Velocimetry (PIV). Results correlated to CFD and determination of fluid parameters via Matlab.
+Undergrad lab study at UConn (2011) of fluid flow through an immersed body of circular shape using Particle Image Velocimetry (PIV). Results correlated to CFD and determination of fluid parameters via Matlab.
 </div><br/>
  
  ### Experimental Setup 
