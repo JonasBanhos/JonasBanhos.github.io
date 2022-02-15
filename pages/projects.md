@@ -94,18 +94,9 @@ My senior desing project at UConn (2011/2012). Design, analysis and validation o
 The task scope: mathematical derivation of a simplified configuration, magnetic modeling with [FEMM](https://www.femm.info/wiki/HomePage) and [Faraday](https://www.integratedsoft.com/products/Faraday) optimization, testing fixtures manufacturing (CNC machining) and final report to the client. 3 students and 2 semesters.
 </div>
 
-### Implementation Highlights
-
-| Topic | Comments |
-| ------ | ----------- |
-| Program    |  FEMM (2D) & Faraday (3D) |
-| Model    |  Biased and structured   |
-| Flow   | Imcompressible & laminar |
- 
- 
 ### Basic Configuration
 
-<p align="left"><img src="../pics/LSRM7-diagram.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM7-diagram.png" width="600"/></p>
 
 ### Simulation
 
