@@ -111,21 +111,17 @@ The task scope: mathematical derivation of a simplified configuration, magnetic 
 
 [FEMM](https://www.femm.info/wiki/HomePage): 2D Opensource software (Finite Element Method Magnetics).
  
-<p align="left"><img src="../pics/LSRM3-FEMM2.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM11.png" width="800"/></p>
 
 [Faraday](https://www.integratedsoft.com/products/Faraday): 3D time-harmonic eddy current field solver.
  
 <p align="left"><img src="../pics/Faraday_Video3.gif" width="800"/></p>
 
-### Machining
+### Machining/Testing
 
 Over 100+ hours of precision manufacturing at UConn. A great hands-on experience and very useful knowledge torward design and manufacturing.
- 
-<p align="left"><img src="../pics/LSRM8.png" width="800"/></p>
-
-### Testing
- 
-<p align="left"><img src="../pics/LSRM5.png" width="800"/></p>
+  
+<p align="left"><img src="../pics/LSRM10.png" width="800"/></p>
  
 ### Validation
 
@@ -142,13 +138,11 @@ Vortex shedding plays an important role in flow measurement since is provides a 
  
 Circular and square meshes
  
-<p align="left"><img src="../pics/cfd1.png" width="800"/></p>
-
-<p align="left"><img src="../pics/cfd2.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd1_2.png" width="800"/></p>
 
 ### Results
 
-<p align="left"><img src="../pics/cfd3.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd3b.png" width="800"/></p>
  
 <p align="left"><img src="../pics/cfd4.png" width="800"/></p>
  
