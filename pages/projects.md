@@ -30,13 +30,13 @@ CFD code the Rayleigh–Bénard Convection problem by full 2D implementation thr
 | Stability    |  Max between Convection-Diffusion stability Limit (CFL)  |
 
 ### Domain
-<p align="left"><img src="../pics/cfddomain.png" width="600"/></p>
+<p align="left"><img src="../pics/cfddomain.png" width="500"/></p>
  
 ### Solution 
  
 Grid=64^2, Ra=10^6 ,Pr=1,T_end=0.005s
  
-<p align="left"><img src="../pics/OneTenthSec5.gif" width="600"/></p>
+<p align="left"><img src="../pics/OneTenthSec5.gif" width="500"/></p>
  
 ---
  
@@ -68,11 +68,11 @@ For this type of device, the engine needs to be started via another vehicle trav
 
 ### Method of Characteristics Example
 
- <p align="left"><img src="../pics/nozzle-characMeth.png" width="800"/></p>
+ <p align="left"><img src="../pics/nozzle-characMeth.png" width="600"/></p>
 
 ### Results
 
- <p align="left"><img src="../pics/stations.png" width="800"/></p>
+ <p align="left"><img src="../pics/stations.png" width="600"/></p>
 
 |FLOW # | MACH | P | T | P0 | T0 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -85,7 +85,7 @@ For this type of device, the engine needs to be started via another vehicle trav
 |7|1.00|81146.1|5772.3|153603.9|6926.8|
 |8|3.50|2000.0|2003.8|153603.9|6926.8|
  
-<p align="left"><img src="../pics/ramjet.png" width="800"/></p>
+<p align="left"><img src="../pics/ramjet.png" width="600"/></p>
  
 ---
  
@@ -97,27 +97,27 @@ The task scope: mathematical derivation of a simplified configuration, magnetic 
 
 ### Basic Configuration
 
-<p align="left"><img src="../pics/LSRM7-diagram.png" width="600"/></p>
+<p align="left"><img src="../pics/LSRM7-diagram.png" width="500"/></p>
 
 ### Simulation
 
 [FEMM](https://www.femm.info/wiki/HomePage): 2D Opensource software (Finite Element Method Magnetics).
  
-<p align="left"><img src="../pics/LSRM11.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM11.png" width="600"/></p>
 
 [Faraday](https://www.integratedsoft.com/products/Faraday): 3D time-harmonic eddy current field solver.
  
-<p align="left"><img src="../pics/Faraday_Video3.gif" width="800"/></p>
+<p align="left"><img src="../pics/Faraday_Video3.gif" width="600"/></p>
 
 ### Machining/Testing
 
 Over 100+ hours of precision manufacturing at UConn. A great hands-on experience and very useful knowledge torward design and manufacturing.
   
-<p align="left"><img src="../pics/LSRM10.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM10.png" width="600"/></p>
  
 ### Validation
 
-<p align="left"><img src="../pics/LSRM4-validation.png" width="800"/></p>
+<p align="left"><img src="../pics/LSRM4-validation.png" width="600"/></p>
 
 ---
  
@@ -130,13 +130,13 @@ Vortex shedding plays an important role in flow measurement since is provides a 
  
 Circular and square meshes
  
-<p align="left"><img src="../pics/cfd1_2.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd1_2.png" width="600"/></p>
 
 ### Results
 
-<p align="left"><img src="../pics/cfd3b.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd3b.png" width="600"/></p>
  
-<p align="left"><img src="../pics/cfd4.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd4.png" width="600"/></p>
  
 ## <a name="section5"><a/>Air-Jet Vortex Generators - 2D - CFD
 <div style="text-align: justify">
@@ -153,11 +153,11 @@ The study focused on the comparison between counter-rotating and co-rotating arr
 
 ### Domain 
   
-<p align="left"><img src="../pics/cfd6.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd6.png" width="600"/></p>
 
 ### Results
 
-<p align="left"><img src="../pics/cfd5.png" width="800"/></p>
+<p align="left"><img src="../pics/cfd5.png" width="600"/></p>
  
 <p align="left"><img src="../pics/cfd7.png" width="800"/></p>
 
@@ -170,13 +170,13 @@ Undergrad lab study at UConn (2011) of fluid flow through an immersed body of ci
  
 ### Experimental Setup 
   
-<p align="left"><img src="../pics/flow.gif" width="600"/></p>
+<p align="left"><img src="../pics/flow.gif" width="500"/></p>
 
 ### Results
 
 Velocity magnitude and cfd prediction (top) / curl and divergence (bottom)
 
-<p align="left"><img src="../pics/flow2.png" width="800"/></p>
+<p align="left"><img src="../pics/flow2.png" width="600"/></p>
 
 Velocity profiles and stream lines
-<p align="left"><img src="../pics/flow4.png" width="800"/></p>
+<p align="left"><img src="../pics/flow4.png" width="600"/></p>
