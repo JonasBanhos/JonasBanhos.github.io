@@ -6,8 +6,8 @@ Some of my interesting academic projects.
 + [Ramjet Engine Sizing - Analytical](#section2)
 + [Linear Variable Reluctance Motor - Desing Optimization](#section3)
 + [Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD](#section4)
-+ [Air-Jet Vortex Generators - 2D - CFD](#section5)
-
++ [Air-Jet Vortex Generators - 3D - CFD](#section5)
++ [Air-Jet Vortex Generators - 2D - CFD](#section6)
 ---
  
 ## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
@@ -160,7 +160,7 @@ The study focused on the comparison between counter-rotating and co-rotating arr
  
 <p align="left"><img src="../pics/cfd7.png" width="800"/></p>
  
-## <a name="section6"><a/>Air-Jet Vortex Generators - 2D - CFD
+## <a name="section6"><a/>Laminar Cylinder flow - PIV
 <div style="text-align: justify">
 Undergrad lab study at UConn (2011) of fluid flow through an immersed body of circular shape using Particle Image Velocimetry (PIV). Results correlated to CFD and determination of fluid parameters via Matlab.
 </div><br/>
