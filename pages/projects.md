@@ -4,7 +4,7 @@ Some of my interesting academic projects.
  
 + [Rayleigh–Bénard Convection - 2D - CFD](#section1)
 + [Ramjet Engine Sizing - Analytical](#section2)
-+ [Linear Variable Reluctance Motor - Desing Optimization](#section3)
++ [Linear Variable Reluctance Motor - Design Optimization](#section3)
 + [Vortex Shedding Frequency for Circular and Square Cylinders - 2D - CFD](#section4)
 + [Air-Jet Vortex Generators - 3D - CFD](#section5)
 + [Laminar Cylinder Flow - PIV/CFD](#section6)
@@ -22,7 +22,7 @@ CFD code the Rayleigh–Bénard Convection problem by full 2D implementation thr
 | ------ | ----------- |
 | Program    |  Matlab  |
 | Governing PDEs    |  Non-dimensional Form   |
-| Imcompressibility   | Satisfied via Poisson equation |
+| Incompressibility   | Satisfied via Poisson equation |
 | Poisson equation  | Fourier Transform solution |
 | BCs | Periodic |
 | Grid  | Staggered |
@@ -43,7 +43,7 @@ Grid=64^2, Ra=10^6 ,Pr=1,T_end=0.005s
 ## <a name="section2"><a/>Ramjet Engine Sizing - Analytical
 <div style="text-align: justify">
 In aerospace applications Ramjets are used in mechanisms that require supersonic flow, such as to propel short range rockets. It uses its own speed to generate the compression necessary to decelerate the flow and produce thrust through added heat in the combustion chamber and further expansion through the nozzle.
-For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high pressure chambers in a testing setting. Great project from the Compressible Flow class ME702 at Manhattan College (2014).
+For this type of device, the engine needs to be started via another vehicle travelling at supersonic speeds or by means of high-pressure chambers in a testing setting. Great project from the Compressible Flow class ME702 at Manhattan College (2014).
 </div>
  
 ### Engine Parameters 
@@ -91,7 +91,7 @@ For this type of device, the engine needs to be started via another vehicle trav
  
 ## <a name="section3"><a/>Linear Variable Reluctance Motor - Desing Optimization  
 <div style="text-align: justify">
-My senior desing project at UConn (2011/2012). Design, analysis and validation of a Linear Variable Reluctance Motor. 
+My senior design project at UConn (2011/2012). Design, analysis and validation of a Linear Variable Reluctance Motor. 
 The task scope: mathematical derivation of a simplified configuration, magnetic modeling with FEMM and Faraday, testing fixtures manufacturing (CNC machining) and final report to the client. 3 students and 2 semesters.
 </div>
 
@@ -178,5 +178,6 @@ Velocity magnitude and cfd prediction (top) / curl and divergence (bottom)
 
 <p align="left"><img src="../pics/flow2.png" width="800"/></p>
 
-Velocity profiles and stream lines
+Velocity profiles and streamlines
+ 
 <p align="left"><img src="../pics/flow4.png" width="800"/></p>
