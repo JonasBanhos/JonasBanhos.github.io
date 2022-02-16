@@ -1,13 +1,14 @@
 #### [←home](../README.md)
 
-## Overview
-
+<div style="text-align: justify">
 I am currently investigating the performance of LES with Smagorinsky-type subgrid-scale (SGS) clousures and its application to atmospheric boundary layer problems.
+</div>
 
 ## Sample Work
 
+<p align="left"><img src="../pics/les4.png" width="800"/></p>
 
-
+<p align="left"><img src="../pics/les3.png" width="800"/></p>
 
 ## Twitter
 
