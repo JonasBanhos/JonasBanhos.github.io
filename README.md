@@ -6,11 +6,15 @@ My goal in creating this website is to store some of my school notes, thoughts, 
 + [research](./pages/research.md)
 + [notes](./pages/notes.md)
 
+---
+
 ## Work
 
 I am an engineer with 9 years of experience working for a major aerospace company. 
 
 [LinkedIn](http://www.linkedin.com/in/jonas-engineer)
+
+---
 
 ## PhD
 
@@ -18,7 +22,10 @@ I have joined UConn's CFD Group in Jan/2021 as a PhD student. I am working with 
 
 [UConn CFD Group](https://cfd.engr.uconn.edu/)
 
+---
 
 ## Patents
 
 [Google Patents](https://patents.google.com/?inventor=Jonas+S.+Banhos)
+
+---
