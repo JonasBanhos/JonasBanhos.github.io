@@ -38,7 +38,6 @@ Another Adv. Heat Transfer problem (2014). The goal was to investigate the effec
 A more complex Java program and hence a true "work-in-progress" project.  I had the idea of building the program while taking the Composite Design class at UConn (2018). We used a great book, Design and Analysis of Composite Structures, 2nd Edition. Hence I decided to step-up the game and try to transform most of the book into a true composites software. My original goal was to master Composite Laminate Theory (CLT) and dive deep into closed-form solutions for various composite components (laminates, plates, beams, panels, sandwiches) under various loads (tension, compression, bending, shear) given various failure theories. Again by building it in Java I wanted to create something useful and easy to use. For example, user can build a laminate, use it to create a plate and have various plates to build a beam. User can inspect output window and plot a variety of results. I started this project in 2018 (first quarter) and I am not sure when it will be done, given that in the last few years I have only worked a few days on it. Regardless I am showcasing it here. 
 </div><br/>
  
-![process](../pics/comp1.png)
 <p align="center"><img src="../pics/comp1.gif" width="600"/></p>
 
 <p align="center"><img src="../pics/comp2.gif" width="600"/></p>
