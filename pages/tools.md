@@ -27,10 +27,10 @@ A model of a pipeline, involving the transport of oil through permafrost. The pr
  <div style="text-align: justify">
 Another Adv. Heat Transfer problem (2014). The goal was to investigate the effects of thermal insulation damage on a steel beam under fire. It uses Finite Volume Method (FVM) on a uniform grid to obtain the transient solution. Overall it is a simple implementation where every cell has its own numerical scheme (boundary, corner, solid, etc). Again I took the opportunity to practice Java. The user can define material zones via vertices and assign specific ids to those. Object oriented programing was needed where the domain is made up of "rectangles" containing properties. The program displays node id and color-coded areas. There s no file user inputs where they are specified directly in the Java code. Note that a .csv file is created containing thermal results. They can be plotted in Excel. Ideally, values could have been plotted directly in the JFrame. Again, future implementation needed here. For now, good practice.
 </div><br/>
+
+<p align="left"><img src="../pics/thermo1.gif" width="600"/></p>
  
-<p align="center"><img src="../pics/thermo1.png"/></p>
- 
-![process](../pics/thermo2.png)
+<p align="left"><img src="../pics/thermo2.gif" width="600"/></p>
  
 ## <a name="section4"><a/>Composite Software - JAVA Application
 
@@ -39,10 +39,13 @@ A more complex Java program and hence a true "work-in-progress" project.  I had 
 </div><br/>
  
 ![process](../pics/comp1.png)
- 
-![process](../pics/comp2.png)
- 
-![process](../pics/comp3.png)
- 
- <p align="center"><img src="../pics/comp4.png"/></p>
+<p align="left"><img src="../pics/comp1.gif" width="600"/></p>
+
+<p align="left"><img src="../pics/comp2.gif" width="600"/></p>
+
+<p align="left"><img src="../pics/comp3.gif" width="600"/></p>
+
+<p align="left"><img src="../pics/comp4.gif" width="400"/></p>
+
+---
 
