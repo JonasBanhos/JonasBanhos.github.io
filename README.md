@@ -1,5 +1,5 @@
 Welcome to my personal website!
-My goal in creating this website is to store some of my school notes, thoughts, programs, career advise, research and more.
+My goal in creating this website is to store school notes, thoughts, programs, career advise, research and more.
 
 + [tools](./pages/tools.md)
 + [projects](./pages/projects.md)
@@ -10,7 +10,7 @@ My goal in creating this website is to store some of my school notes, thoughts, 
 
 ## Work
 
-I am an engineer with 9 years of experience working for a major aerospace company. 
+I am an engineer with 10 years of experience working for a major aerospace company. 
 
 [LinkedIn](http://www.linkedin.com/in/jonas-engineer)
 
@@ -18,7 +18,7 @@ I am an engineer with 9 years of experience working for a major aerospace compan
 
 ## PhD
 
-I have joined UConn's CFD Group in Jan/2021 as a PhD student. I am working with higher order models such as Large Eddy Simulation (LES) applied to atmospheric problems. Plenty of HPC, MPI and a lot of interesting programming, including Fortran!
+I have joined UConn's CFD Group in Jan/2021 as a PhD student. I am working with higher order models such as Large Eddy Simulation (LES) applied to atmospheric and boundary layer flows. Plenty of HPC, MPI and a lot of interesting programming, including Fortran!
 
 [UConn CFD Group](https://cfd.engr.uconn.edu/)
 
