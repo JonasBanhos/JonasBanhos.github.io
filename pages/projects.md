@@ -13,7 +13,7 @@ Some of my interesting academic projects.
  
 ## <a name="section1"><a/>Rayleigh–Bénard Convection - 2D - CFD
 <div style="text-align: justify">
-CFD code the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. This is a research-quality code. Project from the CFD class ME5311 at UConn (2019).
+CFD code for the Rayleigh–Bénard Convection problem by full 2D implementation through Matlab. This is a research-quality code. Project from CFD class ME5311 at UConn (2019).
 </div>
 
 ### Implementation Highlights
