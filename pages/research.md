@@ -7,6 +7,7 @@ I am currently investigating the performance of LES with Smagorinsky-type subgri
 ## Publications
 
 "Effects of Discretization of Smagorinsky–Lilly Subgrid Scale Model on Large-Eddy Simulation of Stable Boundary Layers"(2025). 
+
 https://doi.org/10.3390/atmos16030310/
         
 ## Sample Work
