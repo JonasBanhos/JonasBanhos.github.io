@@ -3,9 +3,12 @@
 <div style="text-align: justify">
 I am currently investigating the performance of LES with Smagorinsky-type subgrid-scale (SGS) clousures and its application to atmospheric boundary layer problems.
 </div>
+
 ## Publications
-item {``Effects of Discretization of Smagorinsky–Lilly Subgrid Scale Model on Large-Eddy Simulation of Stable Boundary Layers"(2025). 
-        \subitem{\href{https://doi.org/10.3390/atmos16030310/}{DOI:10.3390/atmos16030310} }}
+
+"Effects of Discretization of Smagorinsky–Lilly Subgrid Scale Model on Large-Eddy Simulation of Stable Boundary Layers"(2025). 
+https://doi.org/10.3390/atmos16030310/
+        
 ## Sample Work
 
 <p align="left"><img src="../pics/les4.png" width="800"/></p>
