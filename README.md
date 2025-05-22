@@ -10,7 +10,7 @@ My goal in creating this website is to store school notes, thoughts, programs, c
 
 ## Work
 
-I am an engineer with 10 years of experience working for a major aerospace company. 
+I am an engineer with 13 years of experience working for a major aerospace company. 
 
 [LinkedIn](http://www.linkedin.com/in/jonas-engineer)
 
@@ -26,6 +26,6 @@ I have joined UConn's CFD Group in Jan/2021 as a PhD student. I am working with 
 
 ## Patents
 
-[Google Patents](https://patents.google.com/?inventor=Jonas+S.+Banhos)
+[Google Patents](https://patents.google.com/?inventor=Jonas+Banhos)
 
 ---
